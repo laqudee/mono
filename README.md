@@ -1,4 +1,4 @@
-# @laqudee/mono
+# use-napi
 
 > use @napi-rs/cli
 
